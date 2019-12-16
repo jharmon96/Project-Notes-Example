@@ -1,8 +1,8 @@
 global driver
 
-URL = "https://unanet.unanet.com"
-username = "jharmon"
-password = "jh@ut2019!"
+URL = "http://sites.unanet.com/demo_jharmon"
+username = "fcontroller"
+password = "welcome"
 
 notes_file = r"csv-template\notes.csv"
 projects_file = r"IMU\projects.csv"
